@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Voice Research Assistant",
+  "description": "A real-time AI research assistant using Gemini Live API for low-latency voice interaction and Google Search grounding for accurate information.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
